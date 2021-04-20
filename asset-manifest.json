@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TheCube/static/css/main.448b25c1.chunk.css",
+    "main.js": "/TheCube/static/js/main.326e5916.chunk.js",
+    "main.js.map": "/TheCube/static/js/main.326e5916.chunk.js.map",
+    "runtime-main.js": "/TheCube/static/js/runtime-main.5ea53b40.js",
+    "runtime-main.js.map": "/TheCube/static/js/runtime-main.5ea53b40.js.map",
+    "static/js/2.7183ff82.chunk.js": "/TheCube/static/js/2.7183ff82.chunk.js",
+    "static/js/2.7183ff82.chunk.js.map": "/TheCube/static/js/2.7183ff82.chunk.js.map",
+    "static/js/3.f07c309a.chunk.js": "/TheCube/static/js/3.f07c309a.chunk.js",
+    "static/js/3.f07c309a.chunk.js.map": "/TheCube/static/js/3.f07c309a.chunk.js.map",
+    "index.html": "/TheCube/index.html",
+    "static/css/main.448b25c1.chunk.css.map": "/TheCube/static/css/main.448b25c1.chunk.css.map",
+    "static/js/2.7183ff82.chunk.js.LICENSE.txt": "/TheCube/static/js/2.7183ff82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ea53b40.js",
+    "static/js/2.7183ff82.chunk.js",
+    "static/css/main.448b25c1.chunk.css",
+    "static/js/main.326e5916.chunk.js"
+  ]
+}
