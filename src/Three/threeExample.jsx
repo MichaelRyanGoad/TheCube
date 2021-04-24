@@ -34,10 +34,15 @@ const ThreeExample = () => {
     var cube = new THREE.Mesh(geometry, material);
     scene.add(cube);
     const directionalLight = new THREE.DirectionalLight(0xff0000, 1);
-    directionalLight.position.set(0, 10, 0);
+    directionalLight.position.set(5, 10, 0);
     directionalLight.target.position.set(0, 0, 0);
     scene.add(directionalLight);
     scene.add(directionalLight.target);
+    const directionalLight2 = new THREE.DirectionalLight(0x0000ff, 1);
+    directionalLight2.position.set(-5, 10, 0);
+    directionalLight2.target.position.set(0, 0, 0);
+    scene.add(directionalLight2);
+    scene.add(directionalLight2.target);
     camera.position.z = 5;
 
     var animate = function () {
